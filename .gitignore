@@ -2,3 +2,5 @@
 .idea/
 .env
 .gitignore
+.idea/.gitignore
+mysite_data.json
